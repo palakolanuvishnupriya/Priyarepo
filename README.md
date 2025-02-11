@@ -1,2 +1,2 @@
 # Priyarepo
-this is priya repository .
+This is priya repository .
